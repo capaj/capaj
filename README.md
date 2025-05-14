@@ -6,8 +6,9 @@ Apart from all the repos you see on my profile here, I also built several other 
 
 ## How do I like to build software?
 
-I am always trying to break complexity to smaller primitive pieces and tackle them one by one. Another process philosophy I swear by is:
+I am always trying to break complexity to smaller primitive pieces and tackle them one by one. Another process philosophy I utilize is:
  - https://www.youtube.com/watch?v=WgV6M1LyfNY
  - in a [Markdown format](https://github.com/0atman/noboilerplate/blob/main/scripts/34-Plain-Text-Team.md).
 
+This helps to give your LLM a context. Rather than having X different tools across many different third party services.
 
